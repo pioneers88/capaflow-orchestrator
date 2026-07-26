@@ -1,0 +1,4 @@
+sample_id,batch_number,test_type,parameter,result,uom,status,analyst_id,timestamp_validated
+LIMS-9921,XB-2026-546067,In-Process,In-Process Assay Recovery,2.1,%,OOS,AN-082,2026-07-10T16:00:00Z
+LIMS-9922,XB-2026-546067,In-Process,Related Substance B (Impurity),3.9,% area,OOS,AN-082,2026-07-10T16:00:00Z
+LIMS-9994,XB-2026-546067,Finished Release,Potency Assay,87.5,mg/mL,OOS,AN-104,2026-07-11T08:15:00Z

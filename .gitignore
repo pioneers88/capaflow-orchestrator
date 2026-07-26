@@ -1,0 +1,21 @@
+# Deploy companion kit — course material, not part of the product
+deploy-companion/
+
+# Local Claude Code tooling config — not part of the product
+.claude/
+
+# Develop/Deploy companion kit files — course material, not part of the product
+Agentic AI Capstone Develop Companion v0.3_1.zip
+Agentic AI Capstone Deploy Companion v0.3_1.zip
+START_HERE.md
+STUDENT_START_PROMPT.md
+Develop Starting Prompt.md
+CLAUDE.md
+CLAUDE_CODE_SETUP_GUIDE.md
+DEBUGGING_GUIDE.md
+03_DEVELOP.md
+NORTHSTAR_HOME_EXAMPLE.md
+PATH_B_STRETCH.md
+PROMPT_PLAYBOOK.md
+DEVELOP_PRD_TEMPLATE.md
+AGENTS.md

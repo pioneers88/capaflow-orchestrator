@@ -1,0 +1,3 @@
+record_id,process_order,batch_number,unit_operation,parameter_checked,target_value,operator_reading,operator_id,timestamp_logged,operator_comments
+BMR-8821,65467432,XB-2026-546067,API Synthesis Charge,Reactor Core Temp,37.0 C,37.1 C,OP-4421,2026-07-10T00:00:00Z,Initial batch vitals healthy.
+BMR-8822,65467432,XB-2026-546067,Crystallization Stage,Reactor Core Temp,37.0 C,31.4 C,OP-4421,2026-07-10T04:00:00Z,Observed temp drop on analog thermometer. Screen is green. Notify supervisor.

@@ -1,0 +1,3 @@
+oos_id,batch_number,process_order,product_name,test_parameter,specification_limit,initial_result,phase_1_status,lab_manager_signoff,timestamp_triggered
+OOS-2026-991A,XB-2026-546067,65467432,Xorbitacycline,Potency (HPLC),95.0-105.0 mg/mL,87.5 mg/mL,Closed_Confirmed,E.Vance@pharma.local,2026-07-11T08:30:00Z
+OOS-2026-992B,XB-2026-547112,65471190,Xorbitacycline,Potency (HPLC),95.0-105.0 mg/mL,91.2 mg/mL,Open,,2026-07-18T09:15:00Z

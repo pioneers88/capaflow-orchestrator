@@ -1,0 +1,2 @@
+rca_id,capa_id,batch_number,rca_methodology,identified_root_cause,root_cause_category,username,action_date,action_time,user_comments
+RCA-2026-041,CAPA-2026-089,XB-2026-546067,5 Whys / Ishikawa,Un-cleared physical jumper wire on terminal block TB-4 forced alarm suppression loop during temperature drop,Machine_Software_Fault,m.coordinating@pharma.local,2026-07-15,10:15:30,"Confirmed via historical maintenance ticket PM-TKT-2026-07842. This was a legacy bypass wire left behind during the semi-annual calibration window on July 2nd. Human error during machine line-clearance."
